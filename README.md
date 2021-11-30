@@ -11,7 +11,6 @@
 
 - 👋 Hi, I’m @akash
 - 🌱 I’m currently learning MEAN, NESTJS
-- 💞️ I’m looking to collaborate on Developing something related to Psycology Therapy.
 - ⚡   Fun fact: Brain is forever a nerd.
 
 ## 💻 System Using Right now
