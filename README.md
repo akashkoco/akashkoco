@@ -15,7 +15,7 @@
 
 ## 💻 System Using Right now
 
-![Mac OS](https://img.shields.io/badge/catalina-000000?style=for-the-badge&logo=MacOS&logoColor=white)
+![Mac OS](https://img.shields.io/badge/Monterey-000000?style=for-the-badge&logo=MacOS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📱 Contact
