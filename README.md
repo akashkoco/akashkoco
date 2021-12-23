@@ -40,8 +40,7 @@
 <!-- ![Akash github stats](https://github-readme-stats.vercel.app/api?username=akashkoco&theme=algolia&show_icons=true) -->
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashkoco&show_icons=true&theme=radical)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkoco&layout=compact&langs_count=8)](https://github.com/akashkoco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkoco&layout=compact)](https://github.com/akashkoco/github-readme-stats)
 
 <br>
 <!---
